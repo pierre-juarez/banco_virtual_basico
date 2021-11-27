@@ -9,7 +9,7 @@ Funcionalidad:
 - Desactiva cuenta (sí, solo desactiva🥲).
 
 Te dejo aquí una demo: <br>
-<a href="https://pierre-juarez.github.io/vue/" target="_blank">https://pierre-juarez.github.io/vue/</a>
+<a href="https://pierre-juarez.github.io/banco_virtual_basico/" target="_blank">https://pierre-juarez.github.io/banco_virtual_basico/</a>
 
 
 <h2> Versión Desktop </h2>
